@@ -1,0 +1,15 @@
+Interesting Links
+
+	Promise of machine learning in remote sensing in Earth science:
+	- https://eos.org/opinions/realizing-machine-learnings-promise-in-geoscience-remote-sensing
+
+	Bad Band Removal Algorithm for Hyperspectral Imagery:
+	- https://arxiv.org/ftp/arxiv/papers/1610/1610.05929.pdf
+
+	Papers on Retrievals with OE (by Thompson and Brodrick):
+	- (Smoke and Wildfires) - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JD034905
+	- OE - https://www.sciencedirect.com/science/article/pii/S0034425719302779
+	- OE - https://www.sciencedirect.com/science/article/pii/S0034425718303304
+
+	General Atmospheric Correction:
+	- https://www.sciencedirect.com/topics/engineering/hyperspectral-imagery
