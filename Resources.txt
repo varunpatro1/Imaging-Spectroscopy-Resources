@@ -10,6 +10,7 @@ Interesting Links
 	- (Smoke and Wildfires) - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JD034905
 	- OE - https://www.sciencedirect.com/science/article/pii/S0034425719302779
 	- OE - https://www.sciencedirect.com/science/article/pii/S0034425718303304
+	- Snow and Ice - Bohn: https://www.sciencedirect.com/science/article/pii/S0034425721003333
 
 	General Atmospheric Correction:
 	- https://www.sciencedirect.com/topics/engineering/hyperspectral-imagery
