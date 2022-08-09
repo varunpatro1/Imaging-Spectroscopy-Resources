@@ -1,0 +1,6 @@
+Machine Learning
+
+Papers
+
+Earthquakes - UR JPL
+- https://ml.jpl.nasa.gov/papers/rebbapragada/Rebbapragada-ML4GC-ICML2011-FINAL.pdf
